@@ -40,7 +40,7 @@ INSERT INTO usuarios (usuario, senha) VALUES ('admin', MD5('123456'));
 1. Crie o banco de dados usando o script acima.
 2. Certifique-se de que a senha do seu MySQL no XAMPP é `ceub123456` ou altere no arquivo `conexao.php`.
 3. Coloque a pasta do projeto no `htdocs` do XAMPP.
-4. Acesse `http://localhost/prova2-php/login.php` no seu navegador.
+4. Acesse `http://localhost/prova2/login.php` no seu navegador.
 
 ## Usuário de Teste
 - **Login:** admin
